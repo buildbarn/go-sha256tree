@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/buildbarn/bb-storage/pkg/digest/sha256tree"
+	"github.com/buildbarn/go-sha256tree"
 	"github.com/stretchr/testify/require"
 )
 

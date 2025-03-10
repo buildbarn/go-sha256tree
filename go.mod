@@ -3,7 +3,6 @@ module github.com/buildbarn/go-sha256tree
 go 1.24.0
 
 require (
-	github.com/buildbarn/bb-storage v0.0.0-20250226091209-85aafcb236ac
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/sys v0.31.0
 )
